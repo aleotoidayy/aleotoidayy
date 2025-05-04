@@ -1,2 +1,2 @@
 - Chaoo, minh la aleoo
-- ![image](https://github.com/user-attachments/assets/acbc4a5b-29f5-4d28-9dfc-d3dad5339d2c)
+- ![image](https://github.com/user-attachments/assets/188cb92f-138b-4a9f-b7b2-4778401bcd9b)
