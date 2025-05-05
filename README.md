@@ -1,5 +1,4 @@
-- Chaoo, minh la aleoo
-- vet thuong nao ma chang lanh, nhung no de lai seo.
+ vet thuong nao ma chang lanh, nhung no de lai seo.
 - chuyen trong long, khong ai biet, khong ai hieu..
 
 
