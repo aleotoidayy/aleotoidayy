@@ -4,7 +4,9 @@
 
 ![image](https://github.com/user-attachments/assets/d5d88e09-49bb-4107-8a76-0977305184ab)
 
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=hii;🍵+uống+trà+hong?" alt="Typing SVG" />
+</h1>
 
 ### 𝘁ì𝗺 𝘁𝘂𝗶 ở đâ𝘆𝘆
 
