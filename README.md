@@ -17,9 +17,6 @@
 [![Twitch](https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/aleotoidayy)
 [![Mail](https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleotoiday@gmail.com)
 
-## suy :<
 <p align="center">
-  <a href="https://youtu.be/BjWYDK1xUwk?si=bksc9AUUnRm98i1H" target="_blank">
-    <img src="https://img.shields.io/badge/YOUTUBE-000000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleotoidayy&layout=compact&theme=tokyonight" />
 </p>
