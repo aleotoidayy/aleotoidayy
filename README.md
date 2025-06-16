@@ -16,7 +16,3 @@
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/998055399699779695)
 [![Twitch](https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/aleotoidayy)
 [![Mail](https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleotoiday@gmail.com)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleotoidayy&layout=compact&theme=tokyonight" />
-</p>
