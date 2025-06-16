@@ -4,7 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/d5d88e09-49bb-4107-8a76-0977305184ab)
 
-### 🔗 Connect with me:
+### 𝘁ì𝗺 𝘁𝘂𝗶 ở đâ𝘆𝘆
 
 <p align="left">
   <a href="https://facebook.com/aleotoidayy" target="_blank">
