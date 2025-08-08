@@ -1,8 +1,4 @@
-- vet thuong nao ma chang lanh, nhung no de lai seo.
-- chuyen trong long, khong ai biet, khong ai hieu..
-
-
-![image](https://github.com/user-attachments/assets/d5d88e09-49bb-4107-8a76-0977305184ab)
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/5836eab4-a7f8-4c9d-9e2b-0307bc909f69" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=AEE2FF&center=true&size=20&lines=aleoo;&duration=900&pause=500">
