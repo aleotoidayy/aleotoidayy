@@ -8,6 +8,5 @@
 
 ### tìm tớ ở đâyy
 
-[![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/aleotoidayy)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aleotoidayy)
 [![Mail](https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleotoiday@gmail.com)
