@@ -1,9 +1,10 @@
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/88d90981-aa69-4e5a-9d07-029aaa3f4595" />
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/a1fec2e2-9976-4b71-8a63-55da03fb53de" />
+
 
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=AEE2FF&center=true&size=20&lines=aleoo;&duration=900&pause=500">
+  <img src="https://readme-typing-svg.herokuapp.com?color=AEE2FF&center=true&size=20&lines=aleoo;yeuuu;vooooo;&duration=900&pause=500">
 </p>
 
 ### tìm tớ ở đâyy
